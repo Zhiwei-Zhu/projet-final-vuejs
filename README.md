@@ -24,5 +24,6 @@ npm run build
 npm run lint
 ```
 
-### Customize configuration
-See [Configuration Reference](https://cli.vuejs.org/config/).
+### lien contenu
+https://fairytail.fandom.com/
+https://fr.wikipedia.org/wiki/Fairy_Tail
